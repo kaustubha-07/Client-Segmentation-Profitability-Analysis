@@ -1,0 +1,328 @@
+Customer,Country/Region,Name,City,Postal Code,State,Industry ID
+1023,US,Spade and Archer,Irving,75038,TX,31
+10000,US,Globo-Chem,Chicago,60601,IL,30
+10001,US,SNC Directly to America,Westchester,60154,IL,30
+10002,US,GHG,Plano,75024,TX,13
+10003,US,ABC Helicopter,Fort Worth,76177,TX,34
+10004,CA,Mr. Sparkle,Toronto,,ON,30
+10005,US,GAM Neuro,South Bend,46617,IN,34
+10006,US,Sourced Out,Chestbrook,19087,PA,26
+10007,US,Processes Inc,Foster City,94404,CA,30
+10008,US,Cadams USA,EI Paso,79998,TX,7
+10009,US,Noca Gas,Irving,75063,TX,23
+10010,US,PDP,Falls Church,22042,VA,30
+10011,US,EBU Ideals,Battlecreek,49017,MI,11
+10012,US,ONJI LTD,St Louis,63146,MO,15
+10013,US,Keedsler Motors,Ellicott City,,MD,10
+10014,US,Krustyco,Scottsdale,,AZ,31
+10015,US,Axis Chemical Co.,San Jose,95138,CA,32
+10016,US,Rouster and Sideways,Mason,45040,OH,7
+10017,US,Initrode,Melville,11747,NY,7
+10018,US,ONESYNE Labs LP,Alexandria,22314,VA,11
+10019,US,ProStaffing,Plano,75024,TX,30
+10020,US,Creek and Company,Waupaca,54981,WI,20
+10021,US,CAKS,Anchorage,99503,AK,32
+10022,US,DND,Irving,75038,TX,20
+10023,US,Corrigan and Partners,DALLAS,75247,TX,7
+10024,US,NYT Troupe,New York,10018,NY,25
+10025,CA,SNC Toronto,Toronto,,ON,30
+10026,US,Smith and Co.,Juno Beach,33408,FL,9
+10027,US,QWERTY Logistics,AAAAAAA,11111,TX,29
+10028,US,Nevali Group,DALLAS,75254,TX,17
+10029,US,Bueno Gallo Inc,Wheaton,60187,IL,7
+10030,US,Jobargo,St Louis,63114,MO,7
+10031,US,Postal Wash,Washington DC,20071,VA,25
+10032,US,Parrots and Peacocks,Canonsburg,15317,PA,30
+10033,US,Help me See LLC,Mason,45040,OH,7
+10034,US,EBU Technology,Alexandria,22310,VA,11
+10035,US,Venkman Co,Powhatan Point,43942,OH,9
+10036,US,Horn BPO,Fremont,94555,TX,30
+10037,US,A Dog's Staff,Mason,45040,OH,28
+10040,US,Ports of the NorthEast,Jersey City,7302,NJ,10
+10045,US,Nice Guys Services,Schaumberg,60173,IL,8
+10050,US,The Frying Dutchman,Oklahoma City,73102,OK,23
+10051,US,Chez Quis,Sunnyvale,94086,CA,29
+10053,US,Snapper Turtles,Plano,75024,TX,7
+10054,US,ABISCAS LTD,Canonsburg,15317,PA,30
+10055,US,Extensive Enterprise,Greensboro,27410,NC,35
+10060,US,Soneli Graphics,Fremont,94538,CA,13
+10061,US,XIXI,Richmond,23220,VA,30
+10062,US,General Services Corporation,San Jose,,CA,30
+10063,US,Local Services Group,Powhatan Point,,OH,21
+10084,US,Opazel,Lewisville,,TX,30
+10085,US,Austin Music Club,Plano,75086,TX,13
+10090,US,PacWaters Drifting,Houston,77056,TX,23
+10091,US,Sunny Waters,West Palm Beach,33406,FL,35
+10092,US,City of Springfield,San Diego,92101,CA,10
+10093,US,Bullseye,Minneapolis,55403,MN,7
+10094,US,Bahlli Consulting,St. Paul,55117,MN,13
+10095,US,Thatherton Fuels,Pittsburgh,15222,PA,7
+10096,US,GCI,Richmond,23219,VA,13
+10097,US,Present Networks,Ridgeland,39157,MS,32
+10100,US,Tip Top Cafe,Atchison,66002,KS,7
+10105,US,Turning and Lender,Woodcliff Lake,7677,NJ,15
+10110,US,Kings Group,Spokane,99224,WA,34
+10111,US,Korman Technology,Chandler,,AZ,29
+10112,US,Tip Top Cafe,Atchison,66002,KS,7
+10113,US,Vandelay Industries,Omaha,68131,NE,20
+10114,US,SNC Downers Grove,Downers Grove,60515,NE,30
+10115,US,Cincy Computers,Cincinnati,,OH,10
+10116,US,The New Firm,Orlando,32801,FL,15
+10120,US,Wernham Hogg,Omaha,68131,NE,20
+10125,US,Sacramento Sourcing,California,,CA,10
+10126,US,Videlectrix,California,,CA,13
+10130,US,Label Solutions,Fort Pierce,34982,FL,10
+10131,US,SNC Sydney,Irving,75038,TX,11
+10132,US,BINI Pharmaceutical,Columbia,29203,SC,26
+10133,GB,Monarch Playing Card Co.,Uxbridge,,MX,7
+10134,US,Initech,Chicago,60633,IL,20
+10135,US,Sallbet Consultants,Naperville,60563,IL,32
+10136,US,Musion and Phillips,Pittsburgh,15222,PA,15
+10137,US,Sharper Bends,Alexandria,22302,VA,30
+10138,US,Clinton's Rub LP,Trevose,19053,PA,30
+10139,US,Wentworth Industries,Lehigh Valley,18002,PA,12
+10140,US,BINI Pharmaceutical,Columbia,29203,SC,20
+10141,US,Interstate Services,Northbrook,60062,IL,16
+10142,US,EBU Energy,Alkexandria,22310,VA,11
+10143,US,Minuteman Cafe,Miami Beach,33139,FL,30
+10144,US,Grenteris,Billerica,1821,MA,15
+10145,US,Milliways,Miami Beach,33139,FL,30
+10150,US,Pheonix Rails,Forth Worth,76131,TX,34
+10151,US,SNC Path,Newton Square,19073,PA,30
+10152,US,Philo Projects,"Lakewood Ranch, Sarasota",34240,FL,30
+10153,US,Scoila Inc,Friedens,15541,PA,20
+10155,US,123 Warehousing,Chicago,60602,IL,30
+10156,US,Bully Sports,Irving,75038,TX,7
+10157,US,Mexerbio,Durham,27712,NC,5
+10160,US,SCCA County,San Jose,95110,CA,10
+10161,US,CCD Bottling Co,Charlotte,28211,NC,4
+10162,US,Chonic Pain Foundation,Los Angeles,90028,CA,30
+10163,US,TRP Corp,Palm Beach Gardens,33410,FL,7
+10164,US,Strong Land Co.,St. Louis,63105,MO,15
+10165,US,Taggart Transcontinental,Corte Madera,94925,CA,15
+10166,US,Analyze This LP,Montvale,7645,NJ,13
+10167,US,"Demo, inc.",Plymouth,48170,MI,3
+10170,US,Resource Development,Alpharetta,30005,GA,30
+10171,US,Carsy and Lime,Charlotte,28281,NC,30
+10172,US,ULTRA Undertakings,Bolingbrook,60440,IL,7
+10173,US,ChemTec,Gastonia,,NC,30
+10174,US,Water and Power,Houston,77072,TX,9
+10175,US,Compuglobalhypermeganet,New York,10167,NY,7
+10176,US,Klimpys,Plano,75024,TX,31
+10177,US,Pleggios,Henderson,89074,NV,7
+10178,US,Nerve Company,Newport Beach,92660,CA,7
+10179,US,Sample Company,Valhalla,10595,NY,7
+10180,US,Tetris Group,Denton,76207,TX,15
+10181,US,Uncle Joey's Café,Monrovia,91016,CA,7
+10185,US,Company Windows,Lanham,20786,MD,8
+10186,US,Connect the Chain Inc,Indianapolis,46225,IN,15
+10187,US,REY REY LP,Winston-Salem,27101,NC,7
+10188,US,Costa Costa in Country,Martinez,94553,CA,30
+10190,US,Megadodo Publications,Irving,75038,TX,34
+10195,US,"Skirpa, Skirpa and Skirpa",Overland Park,66213,KS,30
+10196,US,ABC Telecom,Richardson,75080,TX,7
+10197,US,Valinik,San Diego,92121,CA,19
+10198,US,Burleigh and Stronginthearm,San Antonio,,TX,7
+10199,US,Dunder Mifflin,New York,10017,NY,7
+10200,US,Vertigo Systems,Indianapolis,46204,IN,15
+10201,US,McMahon and Tate,New York City,10018,NY,7
+10202,US,Therapy Group,Silver Spring,20910,MD,26
+10203,US,SDI Design,Denver,80222,CO,15
+10204,US,Foo Bars,St Louis,63102,MO,15
+10205,US,Sixty Second Avenue,Columbus,43230,OH,7
+10206,US,Swirva,Reston,20190,VA,30
+10210,US,Petrox Oil Company,Uxbridge,1569,MA,15
+10215,US,Globex Corporation,Reston,20190,VA,13
+10216,US,Neward and Benson,Richmond,23219,VA,6
+10217,US,SNC Public,North Tower,20004,DC,13
+10218,US,CAKS Local Services,Fairfax,22031,VA,30
+10219,US,Avariana LTD,Seattle,98101,WA,30
+10220,US,SONO Shoes,Sanata Monica,90404,CA,28
+10225,US,McLittle Consulting Co,Pittsburgh,15222,PA,30
+10226,US,Flowers By Irene,Pittsburgh,15222,PA,7
+10227,US,DONOTUSE - TrotterTires,Findlay,14205,OH,15
+10228,US,California Chems Co.,Jacksonville,32246,FL,6
+10229,US,Hooper Tires,Findlay,45840,OH,15
+10230,CA,Decore Design,Winnipeg,,MB,30
+10231,US,Identities Born LLC,Riverside,92507,CA,13
+10232,CA,OSI Canada,"Toronto,",,MB,30
+10233,US,True Chems LLC,Middlebury,6749,CT,6
+10234,US,Atlantic Northern,Houston,77098,TX,30
+10235,US,"Battan, LLC",Vienna,22182,VA,30
+10236,AU,OSI Australia,Sydney,2000,NSW,30
+10237,US,Tessier-Ashpool,DALLAS,75254,TX,17
+10240,US,Ugen LLC,New York,10105,NY,28
+10241,US,Duff Brewing Company,Irving,,TX,30
+50000,US,KON/PLD,Chicago,60601,IL,30
+50001,US,Gauge Metrics,New York,10004,NY,16
+50002,US,Vanerva,Lynchburgh,,VA,9
+50003,US,Seashore Systems,Arlington,22203,VA,9
+50004,US,Metratrack,Reston,20190,VA,34
+50005,US,Mary Begs Co,Reston,20190,VA,11
+50006,US,Blades,Reston,20190,VA,11
+50007,US,WOLK Works,Reston,20190,VA,11
+50008,US,"Red, White and Blue",St. Louis,,MO,32
+50009,US,Cavanet,Phoenix,85034,AZ,8
+50010,US,Can't Buy Better,Minneapolis,,MN,28
+50011,US,PTC,Skillman,8558,NJ,26
+50012,US,Car Grills LLC,Hopkins,55343,MN,2
+50013,US,Dan's Food Co.,DALLAS,75202,TX,7
+50014,US,"Acme, inc.",Novato,94549,CA,16
+50015,US,ZiffCorp,Troy,48098,MI,12
+50016,US,Mammoth Pictures,Kansas City,64101,MO,28
+50017,US,Cogswell Cogs,Santa Ana,92705,CA,8
+50018,US,Roboto Industries,Skillman,,NJ,26
+50019,US,Niagular,Bethesda,20817,MD,14
+50020,US,Numivia,Irving,75039,TX,13
+50021,US,SeaShell Oil Cleanup,Houston,77002,TX,23
+50022,US,Maggies Machines,St.Louis,,MO,6
+50023,US,Square and Circle Pharma,San Diego,92127,CA,13
+50024,US,Bright Chem LLP,Cincinnati,45232,OH,6
+50025,US,Korsici,Stratford,6615,CT,1
+50026,US,Solely Shoes,Newport News,,VA,15
+50027,US,Ziffer Chemicals,Frazer,19355,PA,26
+50028,US,Chevy's in Texas,Walnut Creek,94597,CA,23
+50029,US,Fake Brothers,Juno Beach,33408,FL,9
+50030,US,Niger National,Southlake,76092,TX,23
+50031,US,DND,Irving,75063,TX,20
+50032,US,C.H. Lavatory and Sons,Houston,77010,TX,6
+50033,US,Korman Partners,Chandler,85248,AZ,29
+50034,US,NYT Troupe,New York,,NY,25
+50035,US,ULA Associates,Denver,,CO,34
+50036,US,Venkman Co,Powhatan Point,43942,OH,9
+50037,US,Potts,Columbus,,OH,2
+50038,US,Widget Corp,Perrysburg,43551,OH,9
+50039,US,Chotchkies,OKC,73102,OK,23
+50040,US,Venting Systems,DALLAS,75211,TX,34
+50041,US,Big T Burgers and Fries,DALLAS,75244,TX,29
+50042,US,Bad Brother LLC,Plano,75024,TX,31
+50043,CA,Mr. Sparkle,Toronto,,ON,35
+50044,US,AppleBoys,Foster City,94404,CA,5
+50045,US,Perception LP,AAAAAAA,11111,TX,30
+50046,US,Blammo,DALLAS,75234,TX,31
+50047,US,Blammo,DALLAS,75234,TX,31
+50048,US,Blammo,DALLAS,75234,TX,31
+50049,US,Blammo,DALLAS,75234,TX,29
+50050,US,Blammo,DALLAS,75234,TX,13
+50051,US,Blammo,DALLAS,75234,TX,31
+50052,US,Blammo,DALLAS,75234,TX,31
+50053,US,ONESYNE Labs LP,Alexandria,22314,VA,11
+50054,US,Sips,Chicago,11111,IL,7
+50055,US,Sips,Plano,75024,TX,7
+50056,CA,Montreal Railway,AAAAAAA,,ON,34
+50057,US,Under the Bridge,AAAAAAA,11111,TX,9
+50058,US,Demo Company,Juno Beach,11111,FL,9
+50059,CA,Primertel,"Toronto, Ontario",,ON,32
+50060,US,Kumatsu Motors,Morristown,7960,NJ,7
+50065,US,"Sample, inc",Plano,75024,TX,7
+50066,US,The Krusty Krab,Sacramento,95816,CA,25
+50070,US,CFD Doubleton,Houston,77056,TX,9
+50071,US,National UNTC,New York,11203,NY,22
+50072,US,City of Springfield,Brooklyn,11201,NY,10
+50073,US,"Spurly, Spurly and Spurly",Washington,20004,DC,12
+50074,US,Whipple LP,Benton Harbor,49022,MI,7
+50075,US,Chasers,Milwaukee,53208,WI,4
+50080,US,Mauve Ware,Palo Alto,94304,CA,31
+50081,US,MG Kelso,Atlanta,,GA,7
+50082,US,Harton,Salisbury,,MD,7
+50083,US,MAD Company,"Decatur,",62523,IL,7
+50085,US,Sonky Rubber Goods,Battle Creek,49017,MI,7
+50086,US,AppleNets,Remote,,CA,31
+50090,US,Galaxy Corp,Greensboro,27410,NC,35
+50095,US,Cosico Sun,San Jose,95134,CA,13
+50096,US,COMP DDK,Islandia,11749,NY,31
+50097,US,Ziffer,Great Valley,,PA,26
+50098,US,Pheonix Rails,Fort Worth,,TX,34
+50099,US,Rimmion Runners,Richmond,23220,VA,9
+50100,US,Allied Biscuit,Detroit,,MI,3
+50101,US,WOWKOW,Saginaw,48603,MI,6
+50105,US,Central Perk,Issaquah,98029,WA,31
+50106,US,Flip the Page LLC,Miamisburg,45342,OH,25
+50107,US,Metratrack,Reston,20190,VA,34
+50108,US,Cities of Virginia,Richmond,23219,VA,10
+50109,US,Present Networks,Ridgeland,39157,MS,32
+50110,US,Katy,Sanford,27332,NC,7
+50115,US,Monks Diner,Evansville,47721,IN,7
+50116,US,Data Systems,Chicago,60601,IL,30
+50120,US,Globo Gym American Corp,Houston,77010,TX,6
+50125,US,Liliport LP,Akron,,OH,3
+50126,US,Philly Medical,Natick,,MA,26
+50127,US,MOKATO,Joplin,64801,MO,15
+50128,US,SNC Downers Grove,Downers Grove,60515,IL,30
+50129,US,Gadgetron,Omaha,68131,NE,20
+50130,US,Sweno of Illinois,Perrysburg,,OH,15
+50131,US,Lovelling Inc,Fort Lee,7024,NJ,7
+50132,US,Addrenaline,Atlanta,30322,GA,4
+50133,US,GGE,San Francisco,,CA,35
+50134,US,Mits Power,Orlando,32809,FL,3
+50135,US,Pac Underwater Drilling,Omaha,68179,NE,34
+50136,US,Dark Pets Inc,The Woodlands,,TX,9
+50140,US,Transworld Consortium,Hershey,17033,PA,7
+50141,US,Label Solutions,DALLAS,,TX,10
+50145,US,SNC Sydney,Canberra ACT,75012,TX,11
+50146,US,Stilts and Shots,Tucson,85706,AZ,7
+50147,US,Trees and Bushes LTD,St. Louis,63124,MO,4
+50148,US,Pompusili,Center Valley,18034,PA,18
+50149,US,Teckman,Mt. View,94035,CA,13
+50150,US,Blue Moons Inn,Phoenix,85016,AZ,14
+50151,US,Neworth Boards,Greenwood Village,80111,CO,21
+50152,US,PPB Bracks,Philadelphia,19103,PA,6
+50153,US,Wayne Enterprises,Florham Park,7005,NJ,32
+50154,US,Opal Enterprises,Burlington,1803,MA,13
+50155,US,Pavel School District,Jacksonville,32207,FL,30
+50156,US,Global Computing,Reston,20190,VA,9
+50160,US,Water and Power,Houston,77072,TX,9
+50161,US,"Jump Off It, N.A.",St. Louis,63146,MO,2
+50162,US,Charles Townsend Agency,Orlando,32825,FL,13
+50163,US,Castem Co,Philadelphia,19103,PA,13
+50164,US,SNC Path,Newton Square,19073,PA,30
+50165,US,Straza Astena,Wilmington,19850,DE,26
+50166,US,Scunder Consulting,Santa Clara,95051,CA,9
+50167,US,Momentum,Columbus,43215,OH,6
+50170,US,MECM,Scarsdale,10583,NY,30
+50175,US,PonDeMon,Wilmington,19805,DE,26
+50176,US,Truliant,Richmond,23230,VA,7
+50177,US,PILA,DALLAS,,TX,4
+50180,US,Denver Trans,Denver,80222,CO,34
+50181,US,Botta,Waukegan,60085,IL,30
+50182,US,Millenium Hooks,Monroe,71203,LA,32
+50183,US,American Trust Bank,Charlotte,28255,NC,12
+50184,US,Gringotts,Novi,48377,MI,7
+50185,US,Gokart,San Martin,95046,CA,3
+50190,US,Hunter and Hunter,San Antonio,78204,TX,7
+50191,US,Acme Corp,Princeton,8540,NJ,7
+50192,US,Devon Energy,Oklahoma City,73102,OK,9
+50193,US,Mooby Corp,Menomonee Falls,53051,WI,3
+50194,US,ANJIKO,Irving,,TX,30
+50195,US,KloKlo Partners,Irving,,TX,30
+50196,US,SpringShield,Iselin,8830,NJ,7
+50200,US,LKLLD,Overland Park,66213,KS,30
+50201,US,Selement,Tarrytown,10591,NY,32
+50202,US,Roxxon,Denver,80203,CO,32
+50203,US,Western Landscaping,Hershey,17033,PA,35
+50204,US,Universal Export,Hershey,17033,PA,7
+50205,US,Ansofini LLC,Bridgewater,8807,NJ,26
+50206,CA,Zevo Toys,Winnipeg,,MB,13
+50207,US,Flamingo Consulting,Torrance,90505,CA,7
+50208,US,Raleigh Resources,Raleigh,27612,NC,10
+50209,US,Coinstellations,Bellevue,98004,WA,7
+50210,US,Scarcoft,New Orleans,70129,LA,30
+50211,US,FABS Constructing,Southfield,48033,MI,17
+50212,US,Powell Motors,DALLAS,75201,TX,9
+50213,US,Mainway Toys,Portland,97209,OR,9
+50215,US,Rivisult,Temple,85281,AZ,35
+50220,US,Helix LLC,Lisle,60532,IL,17
+50221,US,CCP Lips,Bartlesville,74003,OK,13
+50222,US,Simbici LLC,Pittsfield,1201,MA,17
+50223,US,Kingston and Group,DALLAS,,TX,7
+50224,US,Pittsburgh Partners,Harrisburg,,PA,10
+50225,US,St. Anky Beer,Latrobe,15650,PA,20
+50227,US,Scornette Group,Greenville,29615,SC,13
+50228,US,Black Waters Corp,Los Angeles,,CA,9
+50230,US,Protecting the Border,Washington,20229,DC,10
+50231,US,Osato Chemicals,Pittsburgh,15222,PA,7
+50232,CA,Ajax,Markham,,ON,13
+50233,CA,SDI Design,Winnipeg,,MB,30
+50234,US,Industrial Automation,The Woodlands,77380,TX,30
+50235,AU,AEQ,Macquarie,2113,NSW,30
+100001,US,The Legitimate Businessmens Club,Pittsburgh,15222,PA,28
