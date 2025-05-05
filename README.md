@@ -57,8 +57,6 @@ The dashboard visualizes:
 - Churn probabilities
 - Business recommendations
 
-File location: `/dashboard/client_segmentation.pbix`
-
 ## 📈 Results
 
 - Segmented customers into behavior-based clusters
